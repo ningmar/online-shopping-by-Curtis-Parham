@@ -1,0 +1,84 @@
+body{
+	padding: 50px;
+}
+
+#headerwrapper{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 600px;
+	background-image: url(../images/headerlogo/background.png);
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#logotext{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/text1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70% 100px;
+	
+	
+}
+
+
+#partialheaderwrapper{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 210px;
+	background-image: url(../images/headerlogo/background.png);
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#partiallogotext{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/text1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70% 100px;	
+}
+
+.img-thumb{
+	width: auto;
+	height: 200px;
+}
+#footer{
+	margin-top: 50px;
+}
+#btn-addproduct{
+	margin-top: -35px;
+}
+#login_form{
+	width: 50%;
+	height: 60%;
+	border: 2px solid black;
+	box-shadow: 7px 7px 15px rgba(0,0,0,0,6);
+	border-radius: 15px;
+	margin: 8% auto;
+	padding: 15px;
+}
+
+#cart_widget td, #recent_widget{
+	font-size: 12px;
+}
+
+input.price-range {
+	width: 55px;
+}
+fotorama__wrap{
+	width: 90%;
+	margin: 15px auto;
+}
