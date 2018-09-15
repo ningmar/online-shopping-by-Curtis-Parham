@@ -1,2 +1,2 @@
-# online-shopping-by-Curtis-Parham
-this is code from the tutorial of Curtis Parham check his tutorial for understanding whole
+# simple-online-shopping
+A simple online shopping site made with php; procedural approch used
